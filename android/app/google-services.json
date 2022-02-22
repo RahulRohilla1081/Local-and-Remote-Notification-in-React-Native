@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763259237428",
+    "project_id": "pushnotification-afcd3",
+    "storage_bucket": "pushnotification-afcd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763259237428:android:26e81d68e7fae82bdd4661",
+        "android_client_info": {
+          "package_name": "com.smssend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763259237428-er5jgu3bjs1kcohjvr8e5a6ad6i787qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4pm-_5bblXJvzBFbp3K185PY-LloWzno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763259237428-er5jgu3bjs1kcohjvr8e5a6ad6i787qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
